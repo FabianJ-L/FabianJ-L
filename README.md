@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabianJ-L
-- 👀 I’m interested in C programming and web development
-- 🌱 I’m currently learning C
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Python
 - 📫 How to reach me X: FJL_Work
 
 <!---
