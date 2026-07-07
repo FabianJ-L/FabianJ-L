@@ -1,5 +1,5 @@
 #  About Me:
- Hi, I’m @FabianJ-L<br> I’m interested in web development<br> I’m currently learning Python<br> How to reach me X: JanischSaaS
+ Hi, I’m @FabianJ-L<br> I’m interested in web development<br> I’m currently learning Python and SQL<br> How to reach me X: JanischSaaS
 
 
 ##  Socials:
